@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         SystemUiOverlayStyle(statusBarColor: Colors.transparent));
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Task Management App',
+      title: 'Task Manager App',
       home: Home(),
     );
   }
