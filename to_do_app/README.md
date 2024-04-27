@@ -4,8 +4,10 @@ This is a task management app that will help a user view,add,delete,search or ma
 
 # Screenshots
 
-![alt text](<Screenshot (1597).png>)
 ![alt text](<Screenshot (1598).png>)
+![alt text](<Screenshot (1597).png>)
+
+
 
 ## Getting Started
 
