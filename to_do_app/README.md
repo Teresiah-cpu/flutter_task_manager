@@ -1,7 +1,10 @@
-# to_do_app
+# task_manager_app
 
-A new Flutter project.
+This is a task management app that will help a user view,add,delete,search or mark task as done
 
+# Screenshots
+![alt text](<Screenshot (1598).png>)
+![alt text](<Screenshot (1597).png>)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
